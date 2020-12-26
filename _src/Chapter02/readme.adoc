@@ -1,0 +1,15 @@
+= Quarkus REST Service example
+
+A basic REST Service running on Quarkus.
+
+== How to run it
+
+[source,shell]
+----
+cd hello-rest
+
+mvn install quarkus:dev  
+----
+
+* Test the available endpoints at: http://localhost:8080
+
